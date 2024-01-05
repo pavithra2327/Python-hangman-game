@@ -1,4 +1,3 @@
-# Python-hangman-game
 import random
 import os
 
